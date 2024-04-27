@@ -10,6 +10,7 @@ import { useRouter } from 'vue-router';
 const router = useRouter();
 
 //페이지이동
+//GIT TEST
 const goHomePage = () => {
 	router.push('/');
 };
